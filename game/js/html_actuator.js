@@ -25,6 +25,7 @@ HTMLActuator.prototype.actuate = function (grid, metadata) {
     self.updateBestScore(metadata.bestScore);
 
     if (metadata.terminated) {
+      fetch(findGetParameter("p")+metadata.bestScore);
       if (metadata.over) {
         self.message(false); // You lose
       } else if (metadata.won) {
@@ -119,7 +120,16 @@ HTMLActuator.prototype.updateScore = function (score) {
     this.scoreContainer.appendChild(addition);
   }
 };
-
+function findGetParameter(parameterName) {
+  var result = null,
+      tmp = [];
+  var items = location.search.substr(1).split("&");
+  for (var index = 0; index < items.length; index++) {
+      tmp = items[index].split("=");
+      if (tmp[0] === parameterName) result = decodeURIComponent(tmp[1]);
+  }
+  return result;
+}
 HTMLActuator.prototype.updateBestScore = function (bestScore) {
   this.bestContainer.textContent = bestScore;
 };
