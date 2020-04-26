@@ -24,7 +24,7 @@ _TODO_
 
 The setup consists of two parts. One webserver that hosts the game, and one normal server that hosts the bot.
 - The game itself is located in the ```game``` folder and needs to be put on any webserver
-- The bot can be found in `bot` and has installation instructions in its README
+- The bot can be found in `bot` and has installation instructions in its [```README```](https://github.com/Crazy-Marvin/2048TelegramBot/blob/master/bot/README.md)
 
 ## Contributing
 
