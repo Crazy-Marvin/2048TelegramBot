@@ -1,3 +1,19 @@
+# Botfather
+
+Start a chat with [@Botfather](https://t.me/botfather) to receive your personal token.
+Follow the instructions by him.
+
+Those are the supported [commands](https://core.telegram.org/bots#commands):
+
+```
+start - Start
+play2048 - Play 2048 😁
+help - How to play
+about - Info about the bot
+source - View the source code
+legal - See Terms of Service and Privacy Policy
+```
+
 # Installation
 To install, unpack this archive in a folder.
 
@@ -43,7 +59,7 @@ Run the following command
 # in this directory
 ./venv/bin/python -m gamebot
 ```
-Or on windows
+Or on Windows
 ```
 ./venv/scripts/python -m gamebot
 ```
