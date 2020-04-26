@@ -14,6 +14,8 @@ source - View the source code
 legal - See Terms of Service and Privacy Policy
 ```
 
+You can inform the Botfather about them for auto-completion but that is optional.
+
 # Installation
 To install, unpack this archive in a folder.
 
