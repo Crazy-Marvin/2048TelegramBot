@@ -1,0 +1,2 @@
+python-telegram-bot
+https://github.com/romangraef/configlib/archive/master.zip

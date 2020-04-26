@@ -22,10 +22,9 @@ _TODO_
 
 ## Setup
 
-- Install Python 3 on your machine
-- pip install python-telegram-bot --upgrade
-- Get a token from [@Botfather](https://telegram.me/botfather)
+The setup consists of two parts. One webserver that hosts the game, and one normal server that hosts the bot.
 - The game itself is located in the ```game``` folder and needs to be put on any webserver
+- The bot can be found in `bot` and has installation instructions in its README
 
 ## Contributing
 
