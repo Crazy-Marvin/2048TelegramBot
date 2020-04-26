@@ -50,10 +50,14 @@ pip install -r requirements.txt
 {
   "token": "the token provided by the botfather",
   "game_name": "the short name of the game as given in the botfather",
-  "game_url": "the http adress of the game html",
+  "game_url": "the http(s) adress of the game html without trailing slash",
   "bot_url": "the ip/hostname of this bot. this is not a webadress, so don't prefix it with http://. it should be in the form of 127.0.0.1 or google.com"
 }
 ```
+
+Here you can see the ```game_name```:
+
+![game_name](https://user-images.githubusercontent.com/15004217/80318150-45c6e500-8808-11ea-966d-162a3f549287.PNG)
 
 # Running
 Run the following command
