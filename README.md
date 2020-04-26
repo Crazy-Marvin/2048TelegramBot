@@ -7,7 +7,7 @@
 [![Pull requests](https://img.shields.io/github/issues-pr/Crazy-Marvin/2048TelegramBot.svg?style=flat)](https://github.com/Crazy-Marvin/2048TelegramBot/pulls)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3ead43c44bc4405ebea91f61ff2c45e6)](https://www.codacy.com/gh/Crazy-Marvin/2048TelegramBot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Crazy-Marvin/2048TelegramBot&amp;utm_campaign=Badge_Grade)
 [![codecov](https://codecov.io/gh/Crazy-Marvin/2048TelegramBot/branch/master/graph/badge.svg)](https://codecov.io/gh/Crazy-Marvin/2048TelegramBot)
-[![Known Vulnerabilities](https://snyk.io/test/github/Crazy-Marvin/2048TelegramBot/badge.svg?targetFile=bot.py)](https://snyk.io/test/github/Crazy-Marvin/2048TelegramBot?targetFile=bot.py)
+[![Known Vulnerabilities](https://snyk.io/test/github/Crazy-Marvin/2048TelegramBot/badge.svg?targetFile=bot/requirements.txt)](https://snyk.io/test/github/Crazy-Marvin/2048TelegramBot?targetFile=bot/requirements.txt)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fpoopjournal.rocks%2F2048%2F)](https://poopjournal.rocks/2048/)
 
 # 2048 on Telegram
