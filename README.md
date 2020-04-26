@@ -16,14 +16,14 @@ This [Telegram](https://telegram.org/) game/bot lets you play the 2048 game with
 
 [Play here](https://t.me/twothousandfortyeightbot?game=twothousandfortyeight)
 
-## Screenshots
+## Screenshot
 
-_TODO_
+![2048TelegramBot_Screenshot](https://user-images.githubusercontent.com/15004217/80318026-840fd480-8807-11ea-89e3-487170376a14.jpg)
 
 ## Setup
 
 The setup consists of two parts. One webserver that hosts the game, and one normal server that hosts the bot.
-- The game itself is located in the ```game``` folder and needs to be put on any webserver
+- The game itself is located in the ```game``` folder and needs to be put on any webserver, preferrably [GitHub Pages](https://pages.github.com/)
 - The bot can be found in `bot` and has installation instructions in its [```README```](https://github.com/Crazy-Marvin/2048TelegramBot/blob/master/bot/README.md)
 
 ## Contributing
@@ -34,6 +34,7 @@ Please read [```CONTRIBUTING.md```](https://github.com/Crazy-Marvin/2048Telegram
 
 - [2048](https://play2048.co/) by [Gabriele Cirulli](https://gabrielecirulli.com/)
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
+- [Python Configlib](https://github.com/romangraef/configlib)
 
 ## License
 
