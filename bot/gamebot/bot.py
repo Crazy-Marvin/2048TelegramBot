@@ -78,7 +78,7 @@ def inline_handler(update: Update, ctx: CallbackContext):
 
 
 def get_score_url(uuid):
-    return "http://" + config.bot_url + ":8123/report?uuid=" + uuid + "&score="
+    return "//" + config.bot_url + "/report?uuid=" + uuid + "&score="
 
 
 @CallbackQueryHandler
