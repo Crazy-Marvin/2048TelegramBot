@@ -8,7 +8,8 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3ead43c44bc4405ebea91f61ff2c45e6)](https://www.codacy.com/gh/Crazy-Marvin/2048TelegramBot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Crazy-Marvin/2048TelegramBot&amp;utm_campaign=Badge_Grade)
 [![codecov](https://codecov.io/gh/Crazy-Marvin/2048TelegramBot/branch/master/graph/badge.svg)](https://codecov.io/gh/Crazy-Marvin/2048TelegramBot)
 [![Known Vulnerabilities](https://snyk.io/test/github/Crazy-Marvin/2048TelegramBot/badge.svg?targetFile=bot/requirements.txt)](https://snyk.io/test/github/Crazy-Marvin/2048TelegramBot?targetFile=bot/requirements.txt)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fpoopjournal.rocks%2F2048%2F)](https://poopjournal.rocks/2048/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2F2048.poopjournal.rocks%2F)](https://2048.poopjournal.rocks/)
+![healthchecks.io](https://img.shields.io/endpoint?url=https%3A%2F%2Fhealthchecks.io%2Fbadge%2F396c7d03-faf7-4562-9f83-1194d0%2FkXtEcp9g.shields)
 
 # 2048 on Telegram
 

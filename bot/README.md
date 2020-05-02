@@ -50,8 +50,9 @@ pip install -r requirements.txt
 {
   "token": "the token provided by the botfather",
   "game_name": "the short name of the game as given in the botfather",
-  "game_url": "the http(s) adress of the game html without trailing slash",
-  "bot_url": "the ip/hostname of this bot. this is not a webadress, so don't prefix it with http://. it should be in the form of 127.0.0.1 or google.com"
+  "game_url": "the http adress of the game html",
+  "bot_url": "the ip/hostname of this bot. this is not a webadress, so don't prefix it with http://. it should be in the form of 127.0.0.1 or google.com",
+  "healthchecks_url": "a healthchecks.io url or null"
 }
 ```
 
@@ -71,3 +72,9 @@ Or on Windows
 ```
 
 For a persistent setup I would recommend a crontab or a systemd service.
+
+# Monitoring
+
+You can monitor the bot using a service like [Healthchecks.io](https://healthchecks.io/) or [Cronitor](https://cronitor.io/) to get notified when the bot stops working.
+
+![healthchecks](https://user-images.githubusercontent.com/15004217/80873676-887e3680-8cba-11ea-8616-5b189453dbec.PNG)

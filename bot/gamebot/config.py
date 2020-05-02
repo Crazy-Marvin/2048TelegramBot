@@ -6,6 +6,7 @@ class Config(BaseConfig):
     game_name: str
     game_url: str
     bot_url: str
+    healthchecks_url: str
 
 
 config = Config.get_instance()
