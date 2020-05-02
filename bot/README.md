@@ -72,3 +72,9 @@ Or on Windows
 ```
 
 For a persistent setup I would recommend a crontab or a systemd service.
+
+# Monitoring
+
+You can monitor the bot using a service like [Healthchecks.io](https://healthchecks.io/) or [Cronitor](https://cronitor.io/) to get notified when the bot stops working.
+
+![healthchecks](https://user-images.githubusercontent.com/15004217/80873676-887e3680-8cba-11ea-8616-5b189453dbec.PNG)
