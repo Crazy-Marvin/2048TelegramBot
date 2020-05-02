@@ -50,8 +50,9 @@ pip install -r requirements.txt
 {
   "token": "the token provided by the botfather",
   "game_name": "the short name of the game as given in the botfather",
-  "game_url": "the http(s) adress of the game html without trailing slash",
-  "bot_url": "the ip/hostname of this bot. this is not a webadress, so don't prefix it with http://. it should be in the form of 127.0.0.1 or google.com"
+  "game_url": "the http adress of the game html",
+  "bot_url": "the ip/hostname of this bot. this is not a webadress, so don't prefix it with http://. it should be in the form of 127.0.0.1 or google.com",
+  "healthchecks_url": "a healthchecks.io url or null"
 }
 ```
 
