@@ -73,6 +73,8 @@ Or on Windows
 
 For a persistent setup I would recommend a crontab or a systemd service.
 
+The server running the bot script needs to have a webserver (e.g. [Apache](https://httpd.apache.org/), [Caddy](https://caddyserver.com/) or [Nginx](https://www.nginx.com/)) with SSL (e.g. [Let's Encrypt](https://letsencrypt.org/)) running.
+
 # Monitoring
 
 You can monitor the bot using a service like [Healthchecks.io](https://healthchecks.io/) or [Cronitor](https://cronitor.io/) to get notified when the bot stops working.
