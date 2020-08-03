@@ -9,8 +9,7 @@
 [![codecov](https://codecov.io/gh/Crazy-Marvin/2048TelegramBot/branch/master/graph/badge.svg)](https://codecov.io/gh/Crazy-Marvin/2048TelegramBot)
 [![Known Vulnerabilities](https://snyk.io/test/github/Crazy-Marvin/2048TelegramBot/badge.svg?targetFile=bot/requirements.txt)](https://snyk.io/test/github/Crazy-Marvin/2048TelegramBot?targetFile=bot/requirements.txt)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2F2048.poopjournal.rocks%2F)](https://2048.poopjournal.rocks/)
-![healthchecks.io](https://img.shields.io/endpoint?url=https%3A%2F%2Fhealthchecks.io%2Fbadge%2F396c7d03-faf7-4562-9f83-1194d0%2FkXtEcp9g.shields)
-
+[![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhealthchecks.io%2Fbadge%2F396c7d03-faf7-4562-9f83-1194d0%2FXr6YQGe8%2F2048.shields)](https://t.me/twothousandfortyeightbot?game=twothousandfortyeight)
 # 2048 on Telegram
 
 This [Telegram](https://telegram.org/) game/bot lets you play the 2048 game with your friends.
