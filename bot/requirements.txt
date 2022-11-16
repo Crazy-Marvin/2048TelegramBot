@@ -1,3 +1,4 @@
 python-telegram-bot
 https://github.com/romangraef/configlib/archive/master.zip
 requests
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
